@@ -1,3 +1,4 @@
+How to run: Press Start in Visual Studio
 # PROG6221 Part 2 - Cybersecurity Chatbot
 
 ## Features
