@@ -1,4 +1,5 @@
-﻿// CyberChatbot - Part 2 Quiz feacture
+﻿// Final cleanup and code polish - ready for submission
+// CyberChatbot - Part 2 Quiz feacture
 using System;
 using System.Collections.Generic;
 using System.Linq;
