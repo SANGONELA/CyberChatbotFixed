@@ -1,4 +1,5 @@
-﻿using System;
+﻿// NLP handle user intent detection
+using System;
 using System.Text.RegularExpressions;
 
 namespace CyberChatbotFixed.Services
