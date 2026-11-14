@@ -15,5 +15,5 @@
 Open CyberChatbotFixed.sln > F5 > Type: my name is John, Tell me about password safety, Tell me more, I am worried about scams
 
 ## Video & GitHub
-GitHub: [ADD LINK]
+GitHub: [https://github.com/SANGONELA/Cyberchatbotfixed]
 Video: [https://youtu.be/yh6dIdLmcdQ]
