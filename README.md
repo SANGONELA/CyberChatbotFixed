@@ -17,3 +17,5 @@ Open CyberChatbotFixed.sln > F5 > Type: my name is John, Tell me about password 
 ## Video & GitHub
 GitHub: [https://github.com/SANGONELA/Cyberchatbotfixed]
 Video: [https://youtu.be/yh6dIdLmcdQ]
+
+## Features - quiz, Tasks, Reminders, NLP, Activity Log
